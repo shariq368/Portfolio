@@ -65,7 +65,7 @@ const Project = () => {
         exit={{opacity: 0, y:20}}
         transition={{ease:'easeInOut', duration:0.75}} id="projects" className='h-auto max-h-screen-lg  bg-gradient-to-b from-[#434343] to-[#000000] w-full text-white
         md:h-screen mt-8'>
-         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
+         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full z-50'>
            <div className='pb-8 text-center'>
              <h2 className='text-4xl font-bold inline border-b-4 border-gray-400'>Projects</h2>
              <p className='py-6'>Check out some of my work </p>

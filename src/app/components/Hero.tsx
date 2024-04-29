@@ -2,6 +2,7 @@
 import Image from "next/image"
 import { AnimatePresence, animate, motion } from "framer-motion";
 import Typewriter from 'typewriter-effect';
+import Link from "next/link";
 
 const Hero = () => {
   return (
@@ -37,11 +38,11 @@ const Hero = () => {
         Create intuitive and visually appealing interfaces using user-centered design principles. I am proficient in HTML, CSS, and JavaScript and can build responsive and cross-browser compatible websites and applications. I am a detail-oriented and problem-solving individual who is skilled at meeting deadlines.
       </p>
       <div className="flex justify-center">
-          <a href="/assests/cv/Muhammad Shariq New cv.pdf">
+          <Link href="/assests/cv/Muhammad Shariq New Cv.pdf">
         <button className="inline-flex text-white bg-[#73C8A9]   border-0 py-2 px-6 focus:outline-none hover:bg-[#373B44] rounded-md text-lg shadow-md">
           Download CV
         </button>
-          </a>
+          </Link>
         
       </div>
     </div>

@@ -24,7 +24,7 @@ const Navbar = () => {
     transition={{ease:'easeInOut', duration:0.75}}
        className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
         <Link href={"/"} className="mr-5 hover:text-[#73C8A9]">Home</Link>
-        <Link href={"about"} className="mr-5 hover:text-[#73C8A9]">About</Link>
+        <Link href={"#about"} className="mr-5 hover:text-[#73C8A9]">About</Link>
         <Link href={"#Skill"} className="mr-5 hover:text-[#73C8A9]">Skills</Link>
         <Link href={"#projects"} className="mr-5 hover:text-[#73C8A9]">Projects</Link>
         <Link href={"#Contact"} className="mr-5 hover:text-[#73C8A9]">Contact</Link>
