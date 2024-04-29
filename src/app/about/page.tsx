@@ -29,7 +29,7 @@ const page = () => {
         
       </h2>
       <p className="mb-8 leading-relaxed text-white break-words">
-      Shariq here, a passionate developer with skills in both front-end and UI/UX design. I'm currently mastering Next.js to build even more impressive web experiences.
+      Shariq here, a passionate developer with skills in both front-end and UI/UX design. Im currently mastering Next.js to build even more impressive web experiences.
       </p>
       <div className="flex justify-center">
         <Link href={"/assests/cv/Muhammad Shariq New cv.pdf"}>
