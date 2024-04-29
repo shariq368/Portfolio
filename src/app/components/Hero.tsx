@@ -34,7 +34,7 @@ const Hero = () => {
       </h1>
       <div className="w-[100px] h-[2px] bg-[#73C8A9]"></div>
       <p className="mb-8 leading-relaxed text-white">
-        Lcreate intuitive and visually appealing interfaces using user-centered design principles. I am proficient in HTML, CSS, and JavaScript and can build responsive and cross-browser compatible websites and applications. I am a detail-oriented and problem-solving individual who is skilled at meeting deadlines.
+        Create intuitive and visually appealing interfaces using user-centered design principles. I am proficient in HTML, CSS, and JavaScript and can build responsive and cross-browser compatible websites and applications. I am a detail-oriented and problem-solving individual who is skilled at meeting deadlines.
       </p>
       <div className="flex justify-center">
           <a href="/assests/cv/Muhammad Shariq New cv.pdf">
