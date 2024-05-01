@@ -25,8 +25,7 @@ const About = () => {
       <h2 className="title-font sm:text-5xl text-3xl mb-4 font-medium text-white">
         About Me
         
-        
-      </h2>
+              </h2>
       <p className="mb-8 leading-relaxed text-white break-words">
       Shariq here, a passionate developer with skills in both front-end and UI/UX design.
        Im currently mastering Next.js to build even more impressive web experiences.
@@ -37,16 +36,11 @@ const About = () => {
           View CV
         </button>
         </Link>
-       
-      </div>
+             </div>
     </div>
   </div>
 </div>
-
-    
-    
-
-    
+          
   )
 }
 
