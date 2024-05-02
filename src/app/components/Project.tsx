@@ -5,7 +5,7 @@ import Student from "../../../public/assests/projects/Student Mangement system.j
 import Todo from "../../../public/assests/projects/To do list.jpg"
 import University from "../../../public/assests/projects/UNIVERSITY MANAGEMENT SYSTEM.jpg"
 import OOP from "../../../public/assests/projects/Untitled.jpg"
-import Fitness from "../../../public/assests/projects/fitnesswold-2.png"
+import Numberguess from "../../../public/assests/projects/Number gues.png"
 
 import { AnimatePresence, animate, motion } from "framer-motion";
 
@@ -29,15 +29,15 @@ const Project = () => {
           {
             id: 3,
             src: Todo,
-            desc: " Fitness Brand with a Dynamic Next.js & Tailwind CSS Website..",
+            desc: "To Do list System app in Typescript and Node.js......",
             code: "https://github.com/shariq368/Todo-List-Project-TS"
             
           },
           {
             id: 4,
-            src: Fitness,
-            desc: "Unleash Your Fitness Brand with Dynamic Next.js&Tailwind CSS Website......",
-            code: "https://github.com/shariq368/Fitness-World-Project-Nex.js-"
+            src: Numberguess,
+            desc: "Number Guessing  System app in Typescript and Node.js....",
+            code: "https://github.com/shariq368/Guess-Number-Assignment"
             
           },
           {
