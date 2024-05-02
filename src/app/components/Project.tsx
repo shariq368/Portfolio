@@ -5,7 +5,7 @@ import Student from "../../../public/assests/projects/Student Mangement system.j
 import Todo from "../../../public/assests/projects/To do list.jpg"
 import University from "../../../public/assests/projects/UNIVERSITY MANAGEMENT SYSTEM.jpg"
 import OOP from "../../../public/assests/projects/Untitled.jpg"
-import Fitness from "../../../public/assests/projects/fitnessworld.png"
+import Fitness from "../../../public/assests/projects/fitnesswold-2.png"
 
 import { AnimatePresence, animate, motion } from "framer-motion";
 
@@ -36,7 +36,7 @@ const Project = () => {
           {
             id: 4,
             src: Fitness,
-            desc: "Unleash Your Fitness Brand with Dynamic Next.js&Tailwind CSS Website...",
+            desc: "Unleash Your Fitness Brand with Dynamic Next.js & Tailwind CSS Website...",
             code: "https://github.com/shariq368/Fitness-World-Project-Nex.js-"
             
           },
