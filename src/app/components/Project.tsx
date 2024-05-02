@@ -36,7 +36,7 @@ const Project = () => {
           {
             id: 4,
             src: Fitness,
-            desc: "Unleash Your Fitness Brand with Dynamic Next.js&Tailwind CSS Website",
+            desc: "Unleash Your Fitness Brand with Dynamic Next.js&Tailwind CSS Website......",
             code: "https://github.com/shariq368/Fitness-World-Project-Nex.js-"
             
           },
