@@ -12,7 +12,7 @@ const About = () => {
         animate={{opacity: 1, y:0}}
         exit={{opacity: 0, y:20}}
         transition={{ease:'easeInOut', duration:0.75}} id="about"
-         className="text-gray-600 body-fon bg-gradient-to-b from-[#000000] to-[#434343] mt-24">
+         className="text-gray-600 body-font mt-24">
   <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
       <Image

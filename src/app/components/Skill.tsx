@@ -55,7 +55,7 @@ const Skill = () => {
     animate={{opacity: 1, y:0}}
     exit={{opacity: 0, y:20}}
     transition={{ease: 'easeInOut', duration:0.75}} id="#Skill">
-    <div id="Skill" className='bg-gradient-to-b from-[#000000] to-[#434343] text-white
+    <div id="Skill" className=' text-white
     w-auto h-auto z-50'>
            <div className='max-w-screen-lg max-h-screen-lg p-4  mx-auto flex flex-col justify-center w-full '>
                <div className='pb-8 text-center'>

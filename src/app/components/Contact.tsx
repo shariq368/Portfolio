@@ -9,7 +9,7 @@ const Contact = () => {
     animate={{opacity: 1, y:0}}
     exit={{opacity: 0, y:20}}
     transition={{ease:'easeInOut', duration:0.75}} id="Contact">
-      <section className="text-white bg-gradient-to-b from-[#000000] to-[#434343]   body-font relative">
+      <section className="text-white  body-font relative mt-20">
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-12">
       <h2 className="sm:text-4xl text-2xl font-bold title-font mb-4 text-white border-gray-400">
