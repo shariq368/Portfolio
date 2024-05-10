@@ -7,7 +7,7 @@ import { AnimatePresence, animate, motion } from "framer-motion";
 
 const Navbar = () => {
   return (
-    <div className="bg-[#000000] bg-opacity-90 z-50 sticky top-0">
+    <div className="bg-[#232526] bg-opacity-90 z-50 sticky top-0">
     <header className="text-white body-font">
     <div className="container mx-auto flex flex-wrap p-6 flex-col md:flex-row items-center">
       {/* <a 
